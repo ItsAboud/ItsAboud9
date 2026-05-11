@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=ItsAboud&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%" />
@@ -141,4 +140,4 @@ Problem Solving
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
-```
+
